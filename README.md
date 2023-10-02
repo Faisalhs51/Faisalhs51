@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [faisalhs51.github.io](faisalhs51.github.io)
+- 👨‍💻 All of my projects are available at [faisalhs51.github.io](https://faisalhs51.github.io)
 
 - 💬 Ask me about **ReactJS, JavaScript, Databases**
 
